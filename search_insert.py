@@ -22,7 +22,7 @@ def search_insert(array:list, val:int) -> int:
             mid -= 1
             high = mid
             
-    return mid 
+    return low 
 
 
 print( search_insert([1,3,5,6], 7))     
