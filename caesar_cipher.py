@@ -34,4 +34,4 @@ def brute_force(abs: str) -> dict:
     return(burte_force_data)           
     
     
-print(sorted(brute_force("Alislm1241").items(),reverse=True))
+print(sorted(brute_force("Ali").items(),reverse=True))
